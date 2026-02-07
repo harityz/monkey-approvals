@@ -1,0 +1,4 @@
+// LISTA DE HWIDs APROVADOS
+// Adicione um HWID por linha
+// Exemplo:
+TESTE1234567890
